@@ -1,1 +1,3 @@
-we experimented with two LLMs (Universal Sentence Encod-ers and OpenAI’s text-embedding-3-small) to predict four SRL categories (processing information, planning, enacting, and realizing errors) in students' verbalizations, collected from three intelligent tutoring systems, covering stoichiometry chemistry and formal logic. ![image](https://github.com/JZ2655/EDM24_SRL-detectors-for-think-aloud/assets/22173655/b01f1739-f8b1-4feb-a710-2cd53f6b71cd)
+we experimented with two LLMs (Universal Sentence Encod-ers and OpenAI’s text-embedding-3-small) 
+to predict four SRL categories (processing information, planning, enacting, and realizing errors) in students' verbalizations, 
+collected from three intelligent tutoring systems, covering stoichiometry chemistry and formal logic.
